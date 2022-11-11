@@ -1,5 +1,13 @@
 # example-tauri-app
 
+
+## Development
+
+```shell
+$ cargo install tauri-cli
+$ cargo tauri dev
+```
+
 ---
 
 # Tauri + Vanilla
